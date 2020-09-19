@@ -16,3 +16,6 @@
 
 # node_modules
 /node_modules
+
+# tailwind build
+css/main.css
